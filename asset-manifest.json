@@ -1,15 +1,13 @@
 {
-  "main.css": "/vk-settings/static/css/main.97394b36.chunk.css",
-  "main.js": "/vk-settings/static/js/main.51b8af18.chunk.js",
-  "main.js.map": "/vk-settings/static/js/main.51b8af18.chunk.js.map",
+  "main.js": "/vk-settings/static/js/main.569e9bcc.chunk.js",
+  "main.js.map": "/vk-settings/static/js/main.569e9bcc.chunk.js.map",
   "runtime~main.js": "/vk-settings/static/js/runtime~main.579c45c5.js",
   "runtime~main.js.map": "/vk-settings/static/js/runtime~main.579c45c5.js.map",
   "static/css/2.89625e16.chunk.css": "/vk-settings/static/css/2.89625e16.chunk.css",
-  "static/js/2.d4c601b3.chunk.js": "/vk-settings/static/js/2.d4c601b3.chunk.js",
-  "static/js/2.d4c601b3.chunk.js.map": "/vk-settings/static/js/2.d4c601b3.chunk.js.map",
+  "static/js/2.d83c3ecc.chunk.js": "/vk-settings/static/js/2.d83c3ecc.chunk.js",
+  "static/js/2.d83c3ecc.chunk.js.map": "/vk-settings/static/js/2.d83c3ecc.chunk.js.map",
   "index.html": "/vk-settings/index.html",
-  "precache-manifest.edec0c8319a6fff2fa120b2436d8782d.js": "/vk-settings/precache-manifest.edec0c8319a6fff2fa120b2436d8782d.js",
+  "precache-manifest.972f92dd3f3c7e16d8d73aeb4a348cc2.js": "/vk-settings/precache-manifest.972f92dd3f3c7e16d8d73aeb4a348cc2.js",
   "service-worker.js": "/vk-settings/service-worker.js",
-  "static/css/2.89625e16.chunk.css.map": "/vk-settings/static/css/2.89625e16.chunk.css.map",
-  "static/css/main.97394b36.chunk.css.map": "/vk-settings/static/css/main.97394b36.chunk.css.map"
+  "static/css/2.89625e16.chunk.css.map": "/vk-settings/static/css/2.89625e16.chunk.css.map"
 }
