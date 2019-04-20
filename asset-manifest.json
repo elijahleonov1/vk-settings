@@ -1,16 +1,13 @@
 {
-  "main.css": "/static/css/main.0dff559a.chunk.css",
-  "main.js": "/static/js/main.57486b6c.chunk.js",
-  "main.js.map": "/static/js/main.57486b6c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
-  "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
-  "static/css/2.2bf2b98f.chunk.css": "/static/css/2.2bf2b98f.chunk.css",
-  "static/js/2.ce753360.chunk.js": "/static/js/2.ce753360.chunk.js",
-  "static/js/2.ce753360.chunk.js.map": "/static/js/2.ce753360.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.001aa8ea58102a54cddc0994326c517b.js": "/precache-manifest.001aa8ea58102a54cddc0994326c517b.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.2bf2b98f.chunk.css.map": "/static/css/2.2bf2b98f.chunk.css.map",
-  "static/css/main.0dff559a.chunk.css.map": "/static/css/main.0dff559a.chunk.css.map",
-  "static/media/persik.png": "/static/media/persik.4e1ec840.png"
+  "main.js": "/vk-settings/static/js/main.e8e3f6ff.chunk.js",
+  "main.js.map": "/vk-settings/static/js/main.e8e3f6ff.chunk.js.map",
+  "runtime~main.js": "/vk-settings/static/js/runtime~main.579c45c5.js",
+  "runtime~main.js.map": "/vk-settings/static/js/runtime~main.579c45c5.js.map",
+  "static/css/2.89625e16.chunk.css": "/vk-settings/static/css/2.89625e16.chunk.css",
+  "static/js/2.594a0ce2.chunk.js": "/vk-settings/static/js/2.594a0ce2.chunk.js",
+  "static/js/2.594a0ce2.chunk.js.map": "/vk-settings/static/js/2.594a0ce2.chunk.js.map",
+  "index.html": "/vk-settings/index.html",
+  "precache-manifest.d35f38754659b9f2f4ffc3196ba893d6.js": "/vk-settings/precache-manifest.d35f38754659b9f2f4ffc3196ba893d6.js",
+  "service-worker.js": "/vk-settings/service-worker.js",
+  "static/css/2.89625e16.chunk.css.map": "/vk-settings/static/css/2.89625e16.chunk.css.map"
 }
