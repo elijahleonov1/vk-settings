@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/vk-settings/static/js/runtime~main.579c45c5.js"
   },
   {
-    "revision": "be1ec84a2d82210b4897",
-    "url": "/vk-settings/static/js/main.be1ec84a.chunk.js"
+    "revision": "e03b54026373590a7b8b",
+    "url": "/vk-settings/static/js/main.e03b5402.chunk.js"
   },
   {
-    "revision": "ae755127b4a2b222ee7b",
-    "url": "/vk-settings/static/js/2.ae755127.chunk.js"
+    "revision": "ce7533605e0515e55f43",
+    "url": "/vk-settings/static/js/2.ce753360.chunk.js"
   },
   {
-    "revision": "be1ec84a2d82210b4897",
+    "revision": "e03b54026373590a7b8b",
     "url": "/vk-settings/static/css/main.0dff559a.chunk.css"
   },
   {
-    "revision": "ae755127b4a2b222ee7b",
+    "revision": "ce7533605e0515e55f43",
     "url": "/vk-settings/static/css/2.2bf2b98f.chunk.css"
   },
   {
-    "revision": "af588155ca8f495786098fcdf5e6c765",
+    "revision": "02123edbaa991b2a521544c01740c573",
     "url": "/vk-settings/index.html"
   }
 ];
