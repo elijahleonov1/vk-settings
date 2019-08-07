@@ -1,13 +1,13 @@
 {
-  "main.js": "/vk-settings/static/js/main.d7f1d63d.chunk.js",
-  "main.js.map": "/vk-settings/static/js/main.d7f1d63d.chunk.js.map",
+  "main.js": "/vk-settings/static/js/main.9ff2aa80.chunk.js",
+  "main.js.map": "/vk-settings/static/js/main.9ff2aa80.chunk.js.map",
   "runtime~main.js": "/vk-settings/static/js/runtime~main.87dce8bd.js",
   "runtime~main.js.map": "/vk-settings/static/js/runtime~main.87dce8bd.js.map",
   "static/css/2.8ef47eb5.chunk.css": "/vk-settings/static/css/2.8ef47eb5.chunk.css",
   "static/js/2.e54508be.chunk.js": "/vk-settings/static/js/2.e54508be.chunk.js",
   "static/js/2.e54508be.chunk.js.map": "/vk-settings/static/js/2.e54508be.chunk.js.map",
   "index.html": "/vk-settings/index.html",
-  "precache-manifest.e5390aa68f284477bc92f28c696aee51.js": "/vk-settings/precache-manifest.e5390aa68f284477bc92f28c696aee51.js",
+  "precache-manifest.49c055cef4eeb3e8e57ae591577ef8df.js": "/vk-settings/precache-manifest.49c055cef4eeb3e8e57ae591577ef8df.js",
   "service-worker.js": "/vk-settings/service-worker.js",
   "static/css/2.8ef47eb5.chunk.css.map": "/vk-settings/static/css/2.8ef47eb5.chunk.css.map"
 }
