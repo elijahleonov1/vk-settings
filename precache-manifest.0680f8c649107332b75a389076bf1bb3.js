@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/vk-settings/static/css/2.8ef47eb5.chunk.css"
   },
   {
-    "revision": "139e5394d0ea4a41902ee52ac83c83f5",
+    "revision": "32e220dfeff3604f3ad2a32ecc63afb0",
     "url": "/vk-settings/index.html"
   }
 ];
